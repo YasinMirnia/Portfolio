@@ -1,0 +1,29 @@
+header {
+  background-color: aqua;
+}
+
+.navbar {
+  color: burlywood;
+}
+
+#ABOUT-ME {
+  color: blueviolet;
+}
+
+h1 {
+  color: yellow;
+}
+
+h1,
+.navbar,
+#ABOUT-ME {
+  font-style: italic;
+}
+
+section div p {
+  font-style: initial;
+  font-size: larger;
+}
+#about-me {
+  scroll-behavior: smooth;
+}
