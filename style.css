@@ -1,0 +1,44 @@
+* {
+  font-family: "poppins", sans-serif;
+  font-size: 18px;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+.header {
+  background-color: #333533;
+  height: 376px;
+}
+
+.name {
+  color: #ffd100;
+  font-size: 56px;
+}
+
+.position {
+  color: #fafafa;
+  font-size: 32px;
+}
+
+.button {
+  color: #ffd100;
+  border: 1px solid #ffd100;
+  border-radius: 4px;
+}
+
+.lang {
+  color: #fafafa;
+  border: 1px solid #fafafa;
+  border-radius: 4px;
+}
+.header img {
+  height: 290px;
+  width: 290px;
+  border-radius: 50%;
+}
